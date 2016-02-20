@@ -1,0 +1,19 @@
+{
+"name": "milanezlucas/wp-core",
+    "type": "wordpress-core",
+    "description": "Versão em pt-br do core do Wordpress para ser utilizada pelo Composer. Sem a pasta wp-content.",
+    "keywords": ["wordpress","core"],
+    "homepage": "https://github.com/milanezlucas/wp-core",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Milanez",
+            "email": "milanez.lucas@hotmail.com",
+            "homepage": "http://agenciabwm.com.br",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
